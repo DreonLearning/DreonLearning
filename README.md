@@ -6,7 +6,7 @@
 <a href = "mailto:dreon.learning@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dreon.learning"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
 <!--Intro start-->
 
 <p align="left">
