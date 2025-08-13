@@ -1,5 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  soy Andres Gonzalez / Dreon ✨ </h1> 
 
+<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <p align="left">
 <a href="https://linkedin.com/in/andresgonzalez-dreon" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dreon.learning"/></a>
 <a href="https://www.tiktok.com/@dreon.learning" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@dreon.learning" /></a>
