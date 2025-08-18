@@ -2,7 +2,11 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bienvenido+a+mi+Perfil+de+GitHub!+;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" />
+  <picture>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bienvenido+a+mi+Perfil+de+GitHub!+;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" 
+      style="pointer-events:none;" />
+  </picture>
 </p>
 
 <p align="left">
