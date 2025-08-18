@@ -24,11 +24,9 @@
 
 🎥 Creador de contenido que te hace la vida más fácil con aprendizajes 🚀 y tips simples de entender ⚡
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📝 Roles en el ámbito: Desarrollador... Lead Automation... Fundador de Dreon... Emprendedor... Programador Freelance... y en un futuro quién sabe ☺️
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **dreon.learning@gmail.com**
 <!--Intro end-->
   </p>
 <br>
