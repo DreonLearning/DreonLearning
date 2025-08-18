@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/andresgonzalez-dreon" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dreon.learning"/></a>
 <a href="https://www.tiktok.com/@dreon.learning" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@dreon.learning" /></a>
 <a href = "mailto:dreon.learning@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dreon.learning"  /></a>
-<a href = "dreon.learning" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@dreon.learning"  /></a>
+<a href = "https://www.instagram.com/dreon.learning/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@dreon.learning"  /></a>
   </p>
 <br>
 <h2>Sobre mi <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h2>
