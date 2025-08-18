@@ -4,7 +4,7 @@
   <p align="center">
   <picture>
     <img 
-      src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bienvenido+a+mi+Perfil+de+GitHub!+;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" 
+      src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!+;I'm+a+Full+Stack+developer+And+Automation+Testing;I'm+a+competitive+programmer;I'm+a+Content+Creator+in+Training" 
       style="pointer-events:none;" />
   </picture>
 </p>
