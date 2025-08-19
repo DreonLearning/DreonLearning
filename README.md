@@ -63,7 +63,8 @@
         <img 
           align="center" 
           src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-          alt="@DreanLearning" 
+          alt="@DreanLearning"
+          <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
         />
       </p>
     </td>
