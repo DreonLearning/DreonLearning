@@ -47,7 +47,6 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
         <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" /></a>
       </p>
     <p align="center">
