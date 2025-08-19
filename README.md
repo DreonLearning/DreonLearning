@@ -50,7 +50,7 @@
         <img 
           align="center" 
           width="100%" 
-          src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/ejemplo1.png"
+          src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"
           alt="Foto" 
         />
       </p>
