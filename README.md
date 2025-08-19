@@ -50,7 +50,7 @@
         <img 
           align="center" 
           width="100%" 
-          src="https://raw.githubusercontent.com/DreanLearning/DreanLearning/main/assets/dreanlearning.webp" 
+          src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/ejemplo1.webp" 
           alt="VIDEO" 
         />
       </p>
