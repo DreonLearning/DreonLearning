@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,apple,py,dotnet,css,html,angular,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode,linux,aws,azure,bitbucket,bootstrap,cypress,discord,django,dynamodb,express,fastapi,figma,gcp,ai,ae,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,apple,py,dotnet,css,html,angular,js,nodejs,mysql,firebase,git,github,gitlab,gherkin,go,gradle,grafana,graphql,heroku,idea,jenkins,jquery,kotlin,maven,mongodb,nestjs,nextjs,notion,postgres,react,spring,sublime,selenium,sentry,windows,docker,postman,eclipse,vscode,linux,aws,azure,bitbucket,bootstrap,cypress,discord,django,dynamodb,express,fastapi,figma,gcp,ai,ae,ps&perline=12" />
   </a>
 </p>
 <br>
