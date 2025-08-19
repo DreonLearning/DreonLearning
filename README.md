@@ -59,16 +59,10 @@
 </tr>
 </table>
 
-
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
+<div style="clear: both;"></div>
 
 <h2>GitHub :octocat:</h2>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
