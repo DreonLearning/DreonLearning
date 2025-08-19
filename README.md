@@ -42,7 +42,7 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
+<!--
 <table align="left">
   <tr border="none">
     <td width="25%" align="center">
@@ -113,7 +113,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <div style="clear: both;"></div>
 
 <h2>GitHub :octocat:</h2>
