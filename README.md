@@ -56,8 +56,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" /></a>
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" />
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -67,8 +66,7 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" /></a>
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" />
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -78,8 +76,7 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" /></a>
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" />
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
