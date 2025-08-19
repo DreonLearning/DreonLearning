@@ -67,6 +67,50 @@
         />
       </p>
     </td>
+    <td width="25%" align="center">
+      <p align="center">
+        <img 
+          align="center" 
+          width="100%" 
+          src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" 
+          alt="VIDEO" 
+        />
+      </p>
+      <p align="center">
+        <img 
+          align="center" 
+          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+          alt="@unsimpledev" 
+        />
+        <img 
+          align="center" 
+          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+          alt="@unsimpledev" 
+        />
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <p align="center">
+        <img 
+          align="center" 
+          width="100%" 
+          src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" 
+          alt="VIDEO" 
+        />
+      </p>
+      <p align="center">
+        <img 
+          align="center" 
+          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+          alt="@unsimpledev" 
+        />
+        <img 
+          align="center" 
+          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+          alt="@unsimpledev" 
+        />
+      </p>
+    </td>
   </tr>
 </table>
 
