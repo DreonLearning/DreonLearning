@@ -67,7 +67,8 @@
   
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/AzulVerdeBanner.png"   alt="AzulVerdeBanner" />
+        <img align="center" width="50%"   src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS0AAAEtCAYAAABd4zbuAAAACXBIWXMAAAsSAAALEgHS3X78AAAUOElEQVR4nO3dUWhcV37H8V9MoA7IyClLwSqDhQNxwHSsZZS3LR4H0r40a/VhU3YJeELAu3mywkLfmkzYh8IWauWpcSD1CLZZlj5UJvuwNJCM2H2LhlpDDHUgrtShCi0UZ2pBVCi4D/eMPRrNjO7M3Hv/59z7/YCIGEkzf0j45X/+99xzn3r06JGA45Qq7SVJp/teqs74ljvuq+dOp1X+Zsb3RAE8RWihVGlX3beD/1ySNJ9xOZK0LekbPQm2x1+dVnnHoB54h..." 
+     alt="AzulVerdeBanner" />
       </p>
     <p align="center">
        <!-- <a href="tu_canal_youtube" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DreonLearning"  /></a> -->
