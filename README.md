@@ -77,7 +77,7 @@
 
    <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/CyanBanner.png"   alt="CyanBanner" />
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/CyanBanner1.png"   alt="CyanBanner" />
       </p>
     <p align="center">
        <!-- <a href="tu_canal_youtube" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DreonLearning"  /></a> -->
