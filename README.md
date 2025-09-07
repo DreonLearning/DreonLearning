@@ -48,7 +48,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" />
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/VerdeAzulBanner.png"   alt="VerdeAzulBanner" />
       </p>
     <p align="center">
        <!-- <a href="tu_canal_youtube" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DreonLearning"  /></a> -->
@@ -57,7 +57,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" />
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/AllColorsBanner.png"   alt="AllColorsBanner" />
       </p>
     <p align="center">
        <!-- <a href="tu_canal_youtube" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DreonLearning"  /></a> -->
@@ -67,7 +67,7 @@
   
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/fotoje.png"   alt="Foto" />
+        <img align="center" width=50% src="https://raw.githubusercontent.com/DreonLearning/DreonLearning/main/assets/AzulVerdeBanner.png"   alt="AzulVerdeBanner" />
       </p>
     <p align="center">
        <!-- <a href="tu_canal_youtube" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DreonLearning"  /></a> -->
